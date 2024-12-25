@@ -1,6 +1,6 @@
 .itemTable {
     display: grid;
-    grid-template-columns: repeat(4, 24vw);
+    grid-template-columns: repeat(4, 23.8vw);
     column-gap: 0.75vw;
     row-gap: 1.25vw;
     margin: 0.16vw;
