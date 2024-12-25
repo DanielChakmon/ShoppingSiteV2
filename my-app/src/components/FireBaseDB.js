@@ -7,7 +7,7 @@ import { getDatabase } from "firebase/database";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCWmsk7MOR5qDPSySAQ6bU-r3xTCrJUI8Q",
+    apiKey: "", //insert the key here from the txt file
     authDomain: "frontedlectures.firebaseapp.com",
     databaseURL: "https://frontedlectures-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "frontedlectures",
