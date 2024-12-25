@@ -1,0 +1,6 @@
+.loading-message{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3vw;
+    margin-inline: 45vw;
+    margin-block: max(5vw,200px);
+}

@@ -1,0 +1,16 @@
+.decrease-quantity-button {
+    position: absolute;
+    bottom: 1vw;
+    right:  5vw;
+    padding:  0.4vw  0.8vw;
+    background-color: rgb(167, 24, 24);
+    color: white;
+    border: none;
+    border-radius: 0.32vw;
+    cursor: pointer;
+    font-size: 0.75vw;
+}
+
+.decrease-quantity-button:active{
+    background-color: black;
+}

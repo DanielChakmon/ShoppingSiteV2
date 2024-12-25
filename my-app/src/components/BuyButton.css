@@ -1,0 +1,16 @@
+.add-to-cart-button {
+    position: absolute;
+    bottom: 1vw;
+    right:  0.4vw;
+    padding:  0.4vw  0.8vw;
+    background-color: rgb(167, 24, 24);
+    color: white;
+    border: none;
+    border-radius: 0.32vw;
+    cursor: pointer;
+    font-size: 0.75vw;
+}
+
+.add-to-cart-button:active{
+    background-color: black;
+}

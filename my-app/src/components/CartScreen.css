@@ -1,0 +1,64 @@
+.product-container-in-cart {
+    margin-left: 13vw;
+    display: flex;
+    position: relative;
+    width: 80%;
+    margin-block: 0.5vw;
+}
+
+body {
+    margin: 0.75vw;
+    font-size: max(1.1vw,5px); 
+}
+
+.quantity-holder {
+    font-family: 'Impact';
+    font-size: max(1.6vw,5px);
+    color: seagreen;
+    position: absolute;
+    margin-left: 8vw;
+}
+
+
+.cart-item {
+    display: flex;
+    align-items: center;
+}
+
+.go-to-store-button{
+    position: absolute;
+    left:  0.4vw;
+    padding:  0.4vw  0.8vw;
+    background-color: rgba(187, 156, 20, 0.829);
+    color: white;
+    border: none;
+    border-radius: 0.32vw;
+    cursor: pointer;
+    font-size: 1.25vw;
+}
+.go-to-store-button:active{
+    background-color: rgb(255, 102, 0);
+}
+
+.buy-now-button{
+    position: absolute;
+    left:  0.4vw;
+    padding:  0.4vw  0.8vw;
+    background-color: rgba(206, 12, 12, 0.829);
+    color: white;
+    border: none;
+    border-radius: 0.32vw;
+    cursor: pointer;
+    font-size: 1.25vw; 
+}
+.buy-now-button:active{
+    background-color: rgb(10, 1, 1);
+}
+
+
+.no-items-message{
+    font-family: fantasy;
+    font-size: 1.5vw;
+    margin-inline: 26vw;
+
+}
